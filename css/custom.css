@@ -35,7 +35,7 @@ footer {
 .jumbotron p {
   margin-bottom: 30px;
   font-weight: 100;
-  padding: 0px 50px;
+  padding: 0 50px;
 }
 
 .btn-lg {
@@ -72,7 +72,7 @@ footer {
 }
 
 .homepage hr {
-  border-color: #e74c3c;
+  border-top: 1px solid #e74c3c;
   margin-top: 15px;
   width: 160px;
 }
@@ -127,9 +127,5 @@ footer {
 
   footer img {
     width: 80%;
-  }
-
-  .navbar {
-    height: 30px;
   }
 }
