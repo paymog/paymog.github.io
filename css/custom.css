@@ -55,6 +55,14 @@ footer {
   margin-left: 20px;
 }
 
+.modal-dialog {
+  position: absolute;
+  left: 50%;
+  margin-left: -300px;
+  top: 50%;
+  margin-top: -173px;
+}
+
 .modal-content .close {
   position: absolute;
   top: 5px;
